@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @neetakalia
+- 👀 I’m interested in learning systems
+- 🌱 I’m currently learning Next
+- 💞️ I’m looking to collaborate on Next
